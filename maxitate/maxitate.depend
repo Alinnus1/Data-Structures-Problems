@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591039581 source:d:\facultate an1 sem2\structuri de date\maxitate\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string.h>
+

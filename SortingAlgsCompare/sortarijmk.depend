@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1583333101 source:d:\structuri de date\sortarijmk\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<time.h>
+	<chrono>
+
+1589460760 source:d:\facultate an1 sem2\structuri de date\sortarijmk\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<time.h>
+	<chrono>
+	<random>
+

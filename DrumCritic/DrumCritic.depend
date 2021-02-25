@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607212124 source:d:\facultate an2 sem1\dummitra in plm\drumcritic\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<tuple>
+	<queue>
+

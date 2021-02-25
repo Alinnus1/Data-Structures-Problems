@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610647782 source:d:\facultate an2 sem1\dummitra in plm\clustering\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<tuple>
+

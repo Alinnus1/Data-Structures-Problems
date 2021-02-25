@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590404960 source:d:\facultate an1 sem2\structuri de date\radix\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

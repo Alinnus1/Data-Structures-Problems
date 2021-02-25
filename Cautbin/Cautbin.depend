@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591195449 source:d:\facultate an1 sem2\structuri de date\cautbin\main.cpp
+	<fstream>
+	<iostream>
+

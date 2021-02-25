@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605469767 source:d:\facultate an2 sem1\dummitra in plm\kruskal\main.cpp
+	<iostream>
+	<tuple>
+	<algorithm>
+	<vector>
+	<fstream>
+
